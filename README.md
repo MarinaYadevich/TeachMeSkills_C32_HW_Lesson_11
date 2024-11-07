@@ -1,4 +1,5 @@
-#HERE, THE FOLLOWING TASKS ARE IMPLEMENTED_:📝#
+# HERE, THE FOLLOWING TASKS ARE IMPLEMENTED_:📝 #
+
 Write a program with the following functionality:
 Pass a string as input (we will assume that this is a standard document number in a given format).
 The document number has the format xxxx-yyy-xxxx-yyy-xyxy, where x is any digit, and y is a letter of the Latin alphabet (can be upper or lower case).
